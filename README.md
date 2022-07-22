@@ -7,4 +7,5 @@ The analysis is done by using Python programming language, and combines great te
 You can read the final presentation [here](https://github.com/viniciuscva/capstone_project_winning_space_race_with_data_science/blob/main/final_presentation_ibm_data_science_Carlos_Vinicius.pdf).
 
 The predictive analysis was done with four different classifiers: KNN, Decision Trees, SVM, and Logistic Regression. For this project, the Decision Tree classifier gave the best performance (88,89% accuracy).
+
 ![Preview](best_model.png)
