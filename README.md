@@ -1,4 +1,4 @@
-# data_science_for_launching_rockets
+# Data Science for Launching Rockets
 
 This is the capstone project I had to develop in order to get approved in the IBM Data Science Professional Certificate.
 It consists of predictive analysis in order to predict whether a rocket will land succesfully or not. 
